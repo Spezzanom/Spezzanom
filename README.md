@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Spezzanom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in work to help enterprises and people to developing and growing.
+- 🌱 I’m currently learning Coaching Skills, Leadership and Integrated Development.
+- 💞️ I’m looking to collaborate on Organizational Strategies and Team Work improvement. 
+- 📫 How to reach me : pezzano.silvana@gmail.com
+
 
 <!---
 Spezzanom/Spezzanom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
